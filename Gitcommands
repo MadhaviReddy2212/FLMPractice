@@ -1,2 +1,8 @@
 Introduction to GIT
 git and github
+git commands in local server
+git init
+git add
+git commit
+git status
+git log
