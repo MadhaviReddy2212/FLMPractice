@@ -1,0 +1,20 @@
+architecture
+monolatic - deploy all services in a single server and single db eg :swigy
+microservices - each services run in each services and have  multiple server and db
+
+docker -open source used to create design deploy and run the app
+docker uses create container like hypervisor in virtualisation 
+
+container like hypervisor in virtualisation
+container are light weight
+its doesn't need os
+we use images 
+image - all packages dependecny and application is known as contarization process 
+
+1 sever how many container we can run its depends on resource of server
+
+docker Architecture
+client
+demon
+
+
