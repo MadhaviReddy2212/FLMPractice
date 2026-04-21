@@ -10,11 +10,19 @@ container are light weight
 its doesn't need os
 we use images 
 image - all packages dependecny and application is known as contarization process 
-
+images are stored in docker hub
 1 sever how many container we can run its depends on resource of server
 
 docker Architecture
 client
-demon
+docker server demon
+docker registery
 
-
+yum install docker -y
+docker -v
+systemctl status docker
+systemctl start docker
+docker ps -list the container
+docker images -list the images
+docker run -d --name containername -p 2026:80 imaagename
+docker stop containername - stop the container
